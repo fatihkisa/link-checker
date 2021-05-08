@@ -2,6 +2,10 @@
   "name": "fatihkisa/link-checker",
   "type": "library",
   "description": "Check your links on websites.",
+  "require": {
+    "php": ">=7.*",
+    "another-vendor/package": "1.*"
+  },
   "keywords": ["link","backlink","url","website"],
   "homepage": "https://www.jengal.com",
   "license": "MIT",
