@@ -3,8 +3,7 @@
   "type": "library",
   "description": "Check your links on websites.",
   "require": {
-    "php": ">=7.0",
-    "another-vendor/package": "1.*"
+    "php": ">=5.6.40"
   },
   "keywords": ["link","backlink","url","website"],
   "homepage": "https://www.jengal.com",
